@@ -52,7 +52,7 @@ A developer trying to get better everyday and learn new things, both related and
 # Github Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=basilbenny1002&show_icons=true&theme=radical&hide_title=true&count_private=true&bg_color=00000000&hide_border=true&border_radius=15" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basilbenny1002&layout=a" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basilbenny1002&layout=compact" />
 </p>
 
 
