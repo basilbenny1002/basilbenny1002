@@ -4,7 +4,7 @@ A developer trying to get better everyday and learn new things, both related and
 
 ## Currently working on:
 - Commercial Lead generation tools @Leadify
-- Image description based search app for windows [here](https://github.com/basilbenny1002/Descriptive-Media-Search)
+- A Smart search app for windows [here](https://github.com/basilbenny1002/Smart-Search)
 ## Experience
 
 ### [Three Clover Media](https://www.threeclovermedia.com/)
