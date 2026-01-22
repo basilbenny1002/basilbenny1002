@@ -44,7 +44,6 @@ A developer trying to get better everyday and learn new things, both related and
 
 ## How to reach me
 - Email: basilbenny1002@gmail.com
-- Linkedin: [basil_benny12](https://www.linkedin.com/in/basil-benny12/)
 - Instagram: [@basil_benny12](https://www.instagram.com/basil_benny12/)
 
 ---
