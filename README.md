@@ -1,58 +1,51 @@
-# 👋 Hi, I'm Basil Benny
+# Hi, I'm Basil Benny
 
-A developer trying to get better everyday and learn new things, both related and unrelated to tech.
+A developer trying to get better everyday and learn new things, both related and unrelated to tech. My background spans over software, automation and AI development, equipping me with a comprehensive toolkit to tackle diverse project challenges.
 
-## Currently working on:
-- Commercial Lead generation tools @Leadify
-- A Smart search app for windows [here](https://github.com/basilbenny1002/Smart-Search)
 ## Experience
 
-### [Three Clover Media](https://www.threeclovermedia.com/)
-- Developed an email automation system with custom follow-up sequences
-- Built a Twitch and YouTube lead generation tool with verified contact mails and social links
-- Replaced a fully manual workflow — reduced manual workload by ~80%, now only mail replies are handled by humans
-### [Organix](https://www.organixbs.com/)
-- Performed manual lead generation and qualification
-- Ensured high accuracy and relevance of gathered B2B data
-### Fulfilledge
-- Created a web development lead filtration system using NLP and keyword matching
-- Eliminated the need for manual website verification — cut down filtering time by 90%
-### [NexusAI](https://nexusai.tech/)
-- Generated targeted leads for AI-based cold calling, primarily in the solar energy sector  
-- Reused and adapted Fulfilledge’s filtration system to pre-qualify company websites  
-- Streamlined lead collection, reducing manual filtering and improving lead relevance
+### Sales MindAI (Solutions Architect)
+* Engineered an autonomous AI sales agent via the OpenRouter API, implementing custom function calling to fully automate the booking, canceling, and rescheduling of meetings.
+* Architected a stateful, cross-platform context management engine, allowing the AI to maintain seamless conversational memory across website chat, SMS, and email.
+* Developed scalable backend infrastructure with bidirectional GoHighLevel CRM integrations, mapping real-time data to AI workflows for personalized, automated lead nurturing.
 
-## Tech Stack
-- Python, C, Java, JavaScript
-- Flet, Swing, HTML/CSS, Flutter (Not my best skills)
-- Mongodb, SQL
+### ThreeCloverMedia (Lead Automation Specialist)
+* Engineered a custom lead-generation platform for Twitch and YouTube, integrating platform-specific scraping to extract and verify contact details.
+* Developed an automated email sequencer featuring customizable follow-up logic, which successfully secured sponsorships for content creators.
+* Architected end-to-end automated outreach workflows, successfully reducing manual processing time by 80%.
 
-## Skill Set
-- Good typing speed (~100+ WPM) [@Monkeytype](https://monkeytype.com/profile/basilbenny1002)
-- Focusing on automating tasks and reducing human effort
-- Familiar with different AI tools and prompt engineering
-- Quick learner, always curious
-- Familiar with basic AI/ML concepts
-- Strong attention to detail
-- Problem-solving mindset
+### Samuel Kierab (Lead Automation Specialist)
+* Created a web development lead filtration system using NLP and keyword matching, reducing manual website verification and filtering time by 90%.
+* Sourced 3000+ cleaned leads for Fulfilledge and Nexus AI within 2 weeks.
 
+### Organix (Lead Qualifying Agent)
+* Established a distribution network for Organix in multiple African countries as a key member of the marketing team.
+* Generated and profiled leads from multiple African countries.
 
-## Currently Learning
-- Web development basics
-- Reinforcement learning & Gen AI
-- Ethical hacking
+## Projects
+
+* **Smart Search:** An intelligent, high-speed search tool that finds files, images, and documents instantly using AI.
+* **Deep Search:** A blazing-fast file search tool built with Rust capable of instantly listing all files.
+* **Image Deduper:** An automated script designed to quickly scan, identify, and sort through large datasets to remove duplicate images.
+* **Smart Shopping Cart:** An automated retail cart system built utilizing an ESP32 microcontroller and RFID readers for seamless item tracking.
+* **Scam Website Detector:** A machine learning security tool leveraging an XGBoost decision tree model to identify and flag fraudulent websites.
+
+## Tech Stack & Skills
+
+* **Languages:** Python, Java, C, Rust, JavaScript, HTML, CSS.
+* **Libraries & Frameworks:** FastAPI, Flutter, Flet, Pandas, NumPy, SpaCy, Puppeteer, BeautifulSoup.
+* **Databases & Cloud:** SQL, MongoDB, Supabase, AWS EC2.
+* **Hardware & APIs:** Arduino, ESP32, Electronics, Gmail API, Twitch API, Youtube API.
+* **Core Competencies:** System Integration, Platform Automation, Data Pipelines, AI & Machine Learning, Problem Solving, Fast Typing (100+ WPM).
 
 ## How to reach me
-- Email: basilbenny1002@gmail.com
-- Instagram: [@basil_benny12](https://www.instagram.com/basil_benny12/)
 
----
+* Email: basilbenny1002@gmail.com
+* LinkedIn: https://www.linkedin.com/in/basil-benny12/
+* GitHub: https://github.com/basilbenny1002
+* Website: [Insert Website Link Here]
+* Instagram: @basil_benny12
 
-> I build projects to learn. Every repo is a step forward. 
-# Github Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basilbenny1002&show_icons=true&theme=radical&hide_title=true&count_private=true&bg_color=00000000&hide_border=true&border_radius=15" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basilbenny1002&layout=compact&bg_color=00000000&hide_border=true" />
-</p>
+***
 
-
+> I build projects to learn. Every repo is a step forward.
