@@ -43,8 +43,8 @@ A developer trying to get better everyday and learn new things, both related and
 * Email: basilbenny1002@gmail.com
 * LinkedIn: https://www.linkedin.com/in/basil-benny12/
 * GitHub: https://github.com/basilbenny1002
-* Website: [Insert Website Link Here]
-* Instagram: @basil_benny12
+* Website: https://www.basilbenny.me/
+* Instagram: https://www.instagram.com/basil_benny12/
 
 ***
 
